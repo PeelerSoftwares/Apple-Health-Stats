@@ -93,7 +93,7 @@ http://127.0.0.1:8000/api/sleep-condition/?format=api
 
 
 
-TASK 2:
+TASK 2: User who have reached 10,000 steps today.
 
 http://127.0.0.1:8000/api/walked-10000-steps/
 
@@ -111,7 +111,7 @@ Vary: Accept
 
 
 
-TASK 3:
+TASK 3: Users who walked 50 percent less this week compared to previous week.
 
 http://127.0.0.1:8000/api/walked-50-percent-less/
 
